@@ -1,0 +1,18 @@
+a {
+  color: black;
+}
+h1 {
+  color: red;
+}
+li {
+  color: green;
+}
+#form {
+  color: purple;
+}
+.test {
+  color: orange;
+}
+.alert {
+  cursor: pointer;
+}
